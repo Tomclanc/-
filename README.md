@@ -1,11 +1,24 @@
-图书馆管理系统，个人学习
+# my-vue-app
 
-这个图书馆管理系统有一个简单的模糊搜索逻辑，登录，借书还书操作
+## Project setup
+```
+npm install
+```
 
-再就是前端Vue.JS添加一些深色模式亮色模式的适配，国际化语言的适配（中日英三国语言，中国大陆简体中文，日本语，美国英语）
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-前端和后端都采用Https TLS加密，证书是自签名。如果正式使用，建议使用权威机构颁发的证书。
+### Compiles and minifies for production
+```
+npm run build
+```
 
-整个系统采用前后端分离的逻辑，前端是Vue.JS，后端是Springboot，后端使用的Java为17（idea下载的graalvm-jdk-17.0.10），采用maven3.9.4（idea集成）
+### Lints and fixes files
+```
+npm run lint
+```
 
-欢迎诸位前来指点迷津
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
