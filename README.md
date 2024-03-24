@@ -8,4 +8,6 @@
 
 整个系统采用前后端分离的逻辑，前端是Vue.JS，后端是Springboot，后端使用的Java为17（idea下载的graalvm-jdk-17.0.10），采用maven3.9.4（idea集成）
 
+maven仓库下载地是OneDrive直链  https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBckpVdXJnZURwTHNqSUZnN1JycWhmZmdJcURkZmc_ZT1FamFlWXc.zip
+
 欢迎诸位前来指点迷津
