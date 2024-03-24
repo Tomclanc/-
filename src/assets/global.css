@@ -1,0 +1,14 @@
+/* 默认样式（通常是浅色模式的样式） */
+body {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  /* 深色模式的样式 */
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #121212;
+      color: #ffffff;
+    }
+  }
+  
